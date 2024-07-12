@@ -1,4 +1,6 @@
-
 # Inicio de sessión
-## Primeros pasos en GOAL
+
+## Authenticación con contraseña
+
+Usted deberá estar registrado en nuestro sistema de autenticación
 
