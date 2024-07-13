@@ -1,0 +1,13 @@
+name: goal-user-manuals
+on:
+  push:
+    branches: [master]
+jobs:
+  publish-in-server:
+    runs-on: [self-hosted, linux, x64, s2, roma, master]
+    env: 
+      LOCAL_DOCS: "/khayyam/sqldata/container/goal-docs/user/docs"
+    steps:
+      - uses: actions/checkout@v2
+      - name: Copy docns
+        run: cp -r ./docs/* $LOCAL_DOCS/
