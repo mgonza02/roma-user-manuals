@@ -6,13 +6,15 @@
 
 <p style="text-align: justify;">En este caso se crearemos un elemento para poder guardar las credenciales de una determinada página.
 
-**Nombre.-** Esto es como referencia para poder guiarnos.
+<span style="color:orange">**Completamos los campos requeridos**.</span>
 
-**Usuario.-** Usuario de inicio de sesión
+<span style="color:orange">**Nombre.-**</span> Esto es como referencia para poder guiarnos.
 
-**Contraseña.-** Colocamos la clave (Se puede generar contraseñas de manera automática).
+<span style="color:orange">**Usuario.-**</span> Usuario de inicio de sesión
 
-**URL.-** Se puede agregar la url de la página, de esta manera será mucho mas fácil autenticarnos.
+<span style="color:orange">**Contraseña.-**</span> Colocamos la clave (Se puede generar contraseñas de manera automática).
+
+<span style="color:orange">**URL.-**</span> Se puede agregar la url de la página, de esta manera será mucho mas fácil autenticarnos.
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/dUp-cQ.goal-image)
 

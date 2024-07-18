@@ -16,6 +16,10 @@
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/unT-o0.goal-image)
 
-<p style="text-align: justify;">4.- Cuarto.- Agragmos la extensión.  
+<p style="text-align: justify;">4.- Cuarto.- Agragamos la extensión.  
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/DUf-5R.goal-image)
+
+<p style="text-align: justify;">5.- Quinto.- Haremos clic en el ícono de Bitwarden en la parte superior derecha y colocamos nuestras credenciales para autenticarnos.
+
+![image](https://rms-api-alpha.dsroma.info/v1/q/Mc0-9e.goal-image)
