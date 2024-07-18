@@ -2,7 +2,7 @@
 
 ## Acerca de Bitwarder
 
-<p style="text-align: justify;">Bitwarden le permite crear y gestionar contraseñas y claves de acceso únicas, para que pueda reforzar la privacidad y aumentar la productividad en línea desde cualquier dispositivo o ubicación.</p>
+Bitwarden le permite crear y gestionar contraseñas y claves de acceso únicas, para que pueda reforzar la privacidad y aumentar la productividad en línea desde cualquier dispositivo o ubicación.</p>
 
 #### Introducción
 
