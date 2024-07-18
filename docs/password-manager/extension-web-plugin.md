@@ -1,10 +1,10 @@
 ## Agregar extensión para navegadores ##
 
-La extenxión para navegadores es muy últil y practica de usar en caso necesitemos hacer todo sólo desde el navegador web.
+La extenxión para navegadores es muy últil y práctica de usar en caso necesitemos hacer todo sólo desde el navegador web.
 
-Hay distintas formas de agregar la extensión, en este caso lo haremos desde la misma aplicación de Bitwaden
+Hay distintas formas de agregar la extensión, en este caso lo haremos desde la misma aplicación de Bitwaden.
 
-1.- Primero.- Nos dirigimos al apartado de nuestro perfil y seleccionos Consigue Apps
+1.- Primero.- Nos dirigimos al apartado de nuestro perfil y seleccionos Consigue Apps.
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/74J-Ff.goal-image)
 
