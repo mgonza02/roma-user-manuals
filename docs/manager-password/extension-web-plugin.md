@@ -23,3 +23,7 @@
 <p style="text-align: justify;">5.- Quinto.- Haremos clic en el ícono de Bitwarden en la parte superior derecha y colocamos nuestras credenciales para autenticarnos.
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/Mc0-9e.goal-image)
+
+<p style="text-align: justify;">La próxima vez que accedamos a una página que hayamos guardado previamente en Bitwarden, bastará con seleccionar el elemento y automaticamente los campos de usuario y contraseña se completarán.
+
+![image](https://rms-api-alpha.dsroma.info/v1/q/Mzz-V5.goal-image)
