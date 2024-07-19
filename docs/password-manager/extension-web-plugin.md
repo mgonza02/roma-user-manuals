@@ -8,11 +8,11 @@ Hay distintas formas de agregar la extensión, en este caso lo haremos desde la 
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/74J-Ff.goal-image)
 
-2.- Segundo.- Nos refigirá a la siguiente páguina donde seleccionaremos el navegador de nuestra preferencia.
+2.- Segundo.- Nos redirigirá a la siguiente página donde seleccionaremos el navegador de nuestra preferencia.
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/J7L-K3.goal-image)
 
-3.- Tercero.- En este caso seleccionamos la extensión para Chrome y damos clic en Add to Chrome.  
+3.- Tercero.- En este caso seleccionamos la extensión para Chrome y damos clic en **Add to Chrome**.  
 
 ![image](https://rms-api-alpha.dsroma.info/v1/q/unT-o0.goal-image)
 
