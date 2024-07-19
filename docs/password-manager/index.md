@@ -1,4 +1,4 @@
-# Indice principal de Bitwarden
+# Bitwarden
 
 ## Acerca de Bitwarden
 
