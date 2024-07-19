@@ -20,13 +20,12 @@ En resumen, implementar Bitwarden puede ayudarte a:
 - Simplificar la gestión de tus contraseñas y credenciales
 - Incrementar la eficiencia al acceder a tus sitios web y aplicaciones favoritas
 - Disminuir el estrés y la ansiedad relacionados con la gestión de contraseñas
- 
 
-#### Introducción
+## Introducción
 
 - [Introducción](introduction.md)
 
-#### Artículos
+## Artículos
 
 - [Registro y Autenticación](register-and-login.md)
 - [Guía de usuario](user-guide.md)
