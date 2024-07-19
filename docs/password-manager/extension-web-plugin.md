@@ -1,4 +1,4 @@
-## Agregar extensión para navegadores ##
+# Agregar extensión para navegadores #
 
 La extenxión para navegadores es muy últil y práctica de usar en caso necesitemos hacer todo sólo desde el navegador web.
 
