@@ -16,6 +16,6 @@ En resumen, Bitwarden es una aplicación de gestión de contraseñas y credencia
 ![image](https://rms-api-alpha.dsroma.info/v1/q/URS-Wj.goal-image)
 
 
-Para mas información sobre Bitwarden, visita su [sitio web](https://bitwarden.com/){:target="_blank"}.
+Para mas información sobre Bitwarden, visita su [sitio web](https://bitwarden.com/).
 
 []: # (end)
